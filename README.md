@@ -1,1 +1,2 @@
 # Sign-Language-Translator-2025
+This project is an ASL Sign Language Translator that uses a deep learning model to interpret hand gestures in real time. It was developed with Python libraries like TensorFlow, Keras, and OpenCV. The model was trained on a large dataset of ASL signs, enabling it to recognize and display the corresponding letters from a live webcam feed. The core challenge was handling the large dataset in a memory-efficient way.
